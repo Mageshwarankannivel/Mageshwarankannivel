@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mageshwarankannivel
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full Stack Development @ Upgrad Campus
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me www.mageshwarankannivel@outlook.com
 
 <!---
